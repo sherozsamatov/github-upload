@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+
+#container {
+    padding: 30px 40px;
+    margin: 60px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    max-width: 60%;
+    justify-content: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: lightgray;
+}
+
+ .resize {
+  width: 490px;
+  height: auto;
+  margin: 10px;
+  border: 1px lightgray solid;
+     
+  }
+
+  .resize2 {
+    width: 390px;
+    height: auto;
+    margin-left: -25px;
+    border: 1px lightgray solid;
+       
+    }
+
+#card {
+    border: 1px solid lightgray;
+    margin-top: 10px;
+    max-width: 70%;
+    margin: 10px;
+    padding: 20px;
+}
+
+#interesting-fact {
+    font-style: italic;
+}
+
+span {
+    
+    font-family: 'GeoBrandBold', 'CenturyGothic', AppleGothic, Gill Sans, Gill Sans MT, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    letter-spacing: 3px;
+    line-height: 1.5;
+    font-style: normal;
+    }
+
+
+
+li {
+    list-style: none;
+}
+
