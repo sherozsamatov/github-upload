@@ -1,5 +1,5 @@
 # Project Jaguar
-This is one of the first projects of mine that I did a while ago and was sitting on my computer, so I decided to upload it onto GitHub as an exercise of a "Github Upload" course. The code will be modified to improve the look of the page.
+This is one of the first projects of mine that I did a while ago, but it was sitting on my computer, but as part of a "Github Upload" course I decided to upload it onto GitHub. The code will be modified to improve the look of the page.
 
 ## Credit
 This project is one of the exercises that I completed as part of a full-stack course on Udacity
